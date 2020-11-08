@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to right, #838306, #b9df53);
+}
+
+label{
+    font-size: 25px;
+    color: black;
+}
+
+h1{
+    color: black
+}
